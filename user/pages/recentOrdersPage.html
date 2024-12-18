@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recent Orders</title>
+    <link rel="stylesheet" href="../../css/recentOrdersStyle.css">
+</head>
+<body>
+    <nav>
+        <div class="logo"><a href="/"> <img src="../../assets/logo.png" alt="logo" width="70"> </a></div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search Here">
+            <img src="../../assets/search.png" alt="search">
+        </div>
+        <div class="account-specific">
+            <div class="location"><img src="../../assets/location.png" alt="location" width="30"></div>
+            <div class="recent-orders"><img src="../../assets/recent-orders.png" alt="recent orders" width="100"></div>
+            <div class="account"><img src="../../assets/user.png" alt="account" width="50"></div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="heading">
+            <h1>RECENT ORDERS</h1>
+        </div>
+        <div class="recent-orders-container">
+            {{data}}
+        </div>
+    </div>
+    <script src="../../scripts/recentOrdersScript.js"></script>
+</body>
+</html>
