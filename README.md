@@ -40,15 +40,16 @@ A simple yet fully functional e-commerce website built using Node.js. This proje
    npm install
    ```
 
-3. **Set up environment variables**
-   Create a `config.json` file in the project root and add the following object:
-   ```env
-   {PORT:5502,
-   RAZORPAY_KEY_ID:<your-razorpay-key-id>,
-   RAZORPAY_KEY_SECRET:<your-razorpay-key-secret>,
-   EMAIL_SERVICE:gmail,
-   EMAIL_USER:<your-email>,
-   EMAIL_PASS:<your-email-app-password>
+3. **Set up configurations**
+   Edit the `config.json` file in the project root accordingly i.e fill the details like your gmail addrress, it's app password, razorpay's key and secret key generated      in test mode of your razorpay account.
+   ```config
+   {
+    "PORT":5502,
+    "RAZORPAY_KEY_ID":"<your-razorpay-key-id>",
+    "RAZORPAY_KEY_SECRET":"<your-razorpay-key-secret>",
+    "EMAIL_SERVICE":"gmail",
+    "EMAIL_USER":"<your-email>",
+    "EMAIL_PASS":"<your-email-app-password>"
    }
    ```
 
