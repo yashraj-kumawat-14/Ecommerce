@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Details</title>
+    <link rel="stylesheet" href="../../css/accountDetailsStyle.css">
+</head>
+
+<body>
+    <nav>
+        <div class="logo">
+            <a href="/">
+                <img src="../../assets/logo.png" alt="logo" width="70">
+            </a>
+        </div>
+        <div class="search-bar">
+            <input type="text" placeholder="Search Here">
+            <img src="../../assets/search.png" alt="search">
+        </div>
+        <div class="account-specific">
+            <div class="location">
+                <img src="../../assets/location.png" alt="location" width="30">
+            </div>
+            <div class="recent-orders">
+                <img src="../../assets/recent-orders.png" alt="recent orders" width="100">
+            </div>
+            <div class="account">
+                <img src="../../assets/user.png" alt="account" width="50">
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="heading">
+            <h1>ACCOUNT DETAILS</h1>
+            <div class="edit">
+                <img src="../../assets/edit.png" alt="edit" width="50">
+            </div>
+        </div>
+        <div class="account-details">
+            <div class="name">
+                <label for="name">Name : </label>
+                <input type="text" name="name" id="name" value="{{fullName}}" readonly>
+            </div>
+            <div class="email">
+                <label for="email">Email : </label>
+                <input type="email" name="email" id="email" value="{{email}}" readonly>
+            </div>
+            <div class="mobile">
+                <label for="mobile">Mobile : </label>
+                <input type="number" name="mobile" id="mobile" value="{{mobile}}" readonly>
+            </div>
+            <div class="dob" style="text-align: start;">
+                <label for="dob">DOB :</label>
+                <input type="text" name="dob" id="dob" value="{{dob}}" readonly>
+            </div>
+        </div>
+
+    </div>
+    <script src="../../scripts/accountDetailsScript.js"></script>
+</body>
+
+</html>
