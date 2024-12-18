@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    margin: 0px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(177, 172, 172);
+}
+
+
+.container {
+    display: flex;
+    height: 100Vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 8px;
+    max-height: 300px;
+    padding: 40px;
+    overflow-y: auto;
+}
+
+form div {
+    display: flex;
+    flex-direction: column;
+    padding: 5px 0px;
+}
+
+
+label, button {
+    font-weight: bold;
+}
+
+.signin-button button {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 2px;
+    padding: 3px;
+    background-color: rgb(14, 158, 241);
+}
+
+input {
+    border-radius: 4px;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+body {
+    overflow-y: hidden;
+}
+
+button:active{
+    opacity: 1;
+}
+
+.register-button button {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 2px;
+    color: #FFF;
+    padding: 3px;
+    background-color: rgb(2, 158, 28);
+}
