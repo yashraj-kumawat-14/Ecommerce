@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 14",
+    "category": "Mobiles",
+    "price": "99999",
+    "description": "The iPhone 14 comes with a powerful A15 Bionic chip, a 6.1-inch Super Retina display, and a dual-camera system.",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S22",
+    "category": "Mobiles",
+    "price": "79999",
+    "description": "The Samsung Galaxy S22 features a 6.1-inch AMOLED display, a triple-camera setup, and an Exynos 2200 chipset.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "category": "Mobiles",
+    "price": "59999",
+    "description": "The Google Pixel 6 is powered by the Google Tensor chip, with a 6.4-inch AMOLED display and a 50 MP dual rear camera.",
+    "brand": "Google"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 11 5G",
+    "category": "Mobiles",
+    "price": "54999",
+    "description": "OnePlus 11 5G is equipped with a Snapdragon 8 Gen 2 processor, a 120Hz AMOLED display, and a triple-camera array.",
+    "brand": "OnePlus"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi 13 Pro",
+    "category": "Mobiles",
+    "price": "49999",
+    "description": "The Xiaomi 13 Pro boasts a Leica-powered triple camera, Snapdragon 8 Gen 2 chip, and a 6.7-inch AMOLED display.",
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 6,
+    "name": "Vivo X90 Pro",
+    "category": "Mobiles",
+    "price": "64999",
+    "description": "The Vivo X90 Pro delivers exceptional photography with a 1-inch sensor, MediaTek Dimensity 9200 processor, and a curved AMOLED display.",
+    "brand": "Vivo"
+  },
+  {
+    "id": 7,
+    "name": "Realme GT 3",
+    "category": "Mobiles",
+    "price": "39999",
+    "description": "Realme GT 3 offers Snapdragon 8+ Gen 1, a 144Hz AMOLED screen, and 150W fast charging for top-tier performance.",
+    "brand": "Realme"
+  },
+  {
+    "id": 8,
+    "name": "Motorola Edge 40",
+    "category": "Mobiles",
+    "price": "29999",
+    "description": "The Motorola Edge 40 features a vegan leather back, MediaTek Dimensity 8020 chipset, and a pOLED curved display.",
+    "brand": "Motorola"
+  },
+  {
+    "id": 9,
+    "name": "Nokia XR21",
+    "category": "Mobiles",
+    "price": "46999",
+    "description": "Nokia XR21 is a rugged phone with IP69K certification, Snapdragon 695, and a durable Gorilla Glass Victus screen.",
+    "brand": "Nokia"
+  },
+  {
+    "id": 10,
+    "name": "Asus ROG Phone 7",
+    "category": "Mobiles",
+    "price": "74999",
+    "description": "The Asus ROG Phone 7 is a gaming powerhouse with Snapdragon 8 Gen 2, a 165Hz AMOLED display, and AirTrigger controls.",
+    "brand": "Asus"
+  },
+  {
+    "id": 11,
+    "name": "iQOO Neo 7 Pro",
+    "category": "Mobiles",
+    "price": "34999",
+    "description": "The iQOO Neo 7 Pro comes with Snapdragon 8+ Gen 1, a 120Hz AMOLED display, and 120W fast charging.",
+    "brand": "iQOO"
+  },
+  {
+    "id": 12,
+    "name": "Samsung Galaxy A54",
+    "category": "Mobiles",
+    "price": "36999",
+    "description": "The Samsung Galaxy A54 features a 120Hz AMOLED display, Exynos 1380 chipset, and a 50 MP primary camera.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 13,
+    "name": "POCO F5 Pro",
+    "category": "Mobiles",
+    "price": "34999",
+    "description": "POCO F5 Pro includes Snapdragon 8+ Gen 1, a WQHD+ AMOLED display, and a 64 MP OIS primary camera.",
+    "brand": "POCO"
+  },
+  {
+    "id": 14,
+    "name": "Honor Magic 5 Pro",
+    "category": "Mobiles",
+    "price": "79999",
+    "description": "The Honor Magic 5 Pro features an exceptional periscope zoom lens, Snapdragon 8 Gen 2, and a quad-curved OLED display.",
+    "brand": "Honor"
+  },
+  {
+    "id": 15,
+    "name": "Sony Xperia 1 V",
+    "category": "Mobiles",
+    "price": "129999",
+    "description": "Sony Xperia 1 V is a photography beast with Snapdragon 8 Gen 2, a 4K OLED display, and advanced Alpha camera tech.",
+    "brand": "Sony"
+  },
+  {
+    "id": 16,
+    "name": "Oppo Find X6 Pro",
+    "category": "Mobiles",
+    "price": "84999",
+    "description": "Oppo Find X6 Pro features a stunning Hasselblad-tuned camera, Snapdragon 8 Gen 2, and a premium leather back design.",
+    "brand": "Oppo"
+  },
+  {
+    "id": 17,
+    "name": "Lava Agni 2 5G",
+    "category": "Mobiles",
+    "price": "19999",
+    "description": "Lava Agni 2 5G is powered by Dimensity 7050, a curved AMOLED screen, and 66W fast charging for affordability.",
+    "brand": "Lava"
+  },
+  {
+    "id": 18,
+    "name": "Redmi Note 12 Pro+",
+    "category": "Mobiles",
+    "price": "29999",
+    "description": "The Redmi Note 12 Pro+ has a 200 MP primary camera, 120W fast charging, and a 120Hz AMOLED display.",
+    "brand": "Redmi"
+  },
+  {
+    "id": 19,
+    "name": "Micromax In 2C",
+    "category": "Mobiles",
+    "price": "8999",
+    "description": "Micromax In 2C is an entry-level phone with a Unisoc T610 processor, a 6.52-inch HD+ display, and a dual-camera setup.",
+    "brand": "Micromax"
+  },
+  {
+    "id": 20,
+    "name": "Karbonn K9 Smart",
+    "category": "Mobiles",
+    "price": "6999",
+    "description": "Karbonn K9 Smart is an affordable Android phone with a 5-inch display, quad-core processor, and a durable build.",
+    "brand": "Karbonn"
+  },
+  {
+    "id": 21,
+    "name": "Sony 55-inch 4K LED TV",
+    "category": "Electronics",
+    "price": "64999",
+    "description": "This Sony 55-inch 4K LED TV offers stunning clarity and color with HDR support and smart features like Google Assistant.",
+    "brand": "Sony"
+  },
+  {
+    "id": 22,
+    "name": "LG Front Load Washing Machine",
+    "category": "Electronics",
+    "price": "34999",
+    "description": "The LG Front Load Washing Machine offers advanced washing programs, energy efficiency, and a child lock feature.",
+    "brand": "LG"
+  },
+  {
+    "id": 23,
+    "name": "Samsung Family Hub Refrigerator",
+    "category": "Electronics",
+    "price": "129999",
+    "description": "Samsung Family Hub Refrigerator features a smart touchscreen, large capacity, and AI-powered cooling technology.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 24,
+    "name": "Bose SoundLink Revolve Speaker",
+    "category": "Electronics",
+    "price": "19999",
+    "description": "Bose SoundLink Revolve provides immersive 360-degree sound and water resistance for on-the-go use.",
+    "brand": "Bose"
+  },
+  {
+    "id": 25,
+    "name": "Philips Air Fryer",
+    "category": "Electronics",
+    "price": "9999",
+    "description": "The Philips Air Fryer uses rapid air technology for healthy frying, baking, and grilling with minimal oil.",
+    "brand": "Philips"
+  },
+  {
+    "id": 26,
+    "name": "Dyson V11 Vacuum Cleaner",
+    "category": "Electronics",
+    "price": "49999",
+    "description": "Dyson V11 is a cordless vacuum cleaner with advanced suction power and a long-lasting battery.",
+    "brand": "Dyson"
+  },
+  {
+    "id": 27,
+    "name": "Canon EOS 200D DSLR",
+    "category": "Electronics",
+    "price": "49999",
+    "description": "Canon EOS 200D DSLR features a 24.1 MP sensor, dual-pixel autofocus, and Wi-Fi for high-quality photography.",
+    "brand": "Canon"
+  },
+  {
+    "id": 28,
+    "name": "Apple Watch Series 8",
+    "category": "Electronics",
+    "price": "39999",
+    "description": "Apple Watch Series 8 comes with advanced health tracking, a durable design, and seamless integration with iPhones.",
+    "brand": "Apple"
+  },
+  {
+    "id": 29,
+    "name": "Mi Smart Band 7",
+    "category": "Electronics",
+    "price": "3499",
+    "description": "The Mi Smart Band 7 features a large AMOLED display, health tracking, and long battery life in a budget-friendly package.",
+    "brand": "Xiaomi"
+  },
+  {
+    "id": 30,
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "Electronics",
+    "price": "34999",
+    "description": "Sony WH-1000XM5 headphones deliver industry-leading noise cancellation and superior sound quality.",
+    "brand": "Sony"
+  },
+  {
+    "id": 31,
+    "name": "Samsung Galaxy Tab S8",
+    "category": "Electronics",
+    "price": "79999",
+    "description": "The Samsung Galaxy Tab S8 features a Snapdragon 8 Gen 1 processor, S Pen support, and a stunning AMOLED display.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 32,
+    "name": "Amazon Echo Dot 5th Gen",
+    "category": "Electronics",
+    "price": "4499",
+    "description": "Amazon Echo Dot offers Alexa voice assistant, enhanced audio quality, and smart home integration.",
+    "brand": "Amazon"
+  },
+  {
+    "id": 33,
+    "name": "GoPro Hero 11 Black",
+    "category": "Electronics",
+    "price": "45999",
+    "description": "GoPro Hero 11 Black is a rugged action camera with 5.3K video recording and HyperSmooth 5.0 stabilization.",
+    "brand": "GoPro"
+  },
+  {
+    "id": 34,
+    "name": "Panasonic Microwave Oven",
+    "category": "Electronics",
+    "price": "15999",
+    "description": "The Panasonic Microwave Oven offers convection and grill cooking with a compact and efficient design.",
+    "brand": "Panasonic"
+  },
+  {
+    "id": 35,
+    "name": "Fitbit Charge 5",
+    "category": "Electronics",
+    "price": "14999",
+    "description": "Fitbit Charge 5 tracks fitness metrics, heart rate, and sleep patterns with advanced health monitoring features.",
+    "brand": "Fitbit"
+  },
+  {
+    "id": 36,
+    "name": "Sony PlayStation 5",
+    "category": "Electronics",
+    "price": "54999",
+    "description": "The Sony PlayStation 5 features a custom SSD, ray-tracing capabilities, and immersive 4K gaming experiences.",
+    "brand": "Sony"
+  },
+  {
+    "id": 37,
+    "name": "Lenovo Smart Clock Essential",
+    "category": "Electronics",
+    "price": "3499",
+    "description": "Lenovo Smart Clock Essential is a compact smart device with Google Assistant and a digital clock display.",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 38,
+    "name": "TCL 43-inch Smart LED TV",
+    "category": "Electronics",
+    "price": "24999",
+    "description": "TCL 43-inch Smart LED TV offers Full HD resolution, Android TV OS, and Dolby Audio support for a cinematic experience.",
+    "brand": "TCL"
+  },
+  {
+    "id": 39,
+    "name": "Philips Hue Smart Bulbs (Pack of 2)",
+    "category": "Electronics",
+    "price": "6999",
+    "description": "Philips Hue Smart Bulbs support Alexa and Google Assistant for customizable lighting and smart home integration.",
+    "brand": "Philips"
+  },
+  {
+    "id": 40,
+    "name": "JBL Boombox 3",
+    "category": "Electronics",
+    "price": "34999",
+    "description": "JBL Boombox 3 is a portable Bluetooth speaker with powerful bass and IP67 water resistance.",
+    "brand": "JBL"
+  },
+  {
+    "id": 41,
+    "name": "Hot Wheels Ultimate Garage",
+    "category": "Toys",
+    "price": "7999",
+    "description": "This Hot Wheels Ultimate Garage playset features a multi-level parking garage, ramps, and fun tracks for kids.",
+    "brand": "Hot Wheels"
+  },
+  {
+    "id": 42,
+    "name": "Lego Technic Monster Jam Grave Digger",
+    "category": "Toys",
+    "price": "4999",
+    "description": "The Lego Technic Monster Jam Grave Digger has realistic details and functioning parts for endless building and playtime fun.",
+    "brand": "Lego"
+  },
+  {
+    "id": 43,
+    "name": "Barbie Dreamhouse Playset",
+    "category": "Toys",
+    "price": "14999",
+    "description": "Barbie Dreamhouse features three floors, elevators, and furniture for imaginative role-playing fun.",
+    "brand": "Barbie"
+  },
+  {
+    "id": 44,
+    "name": "Nerf Elite 2.0 Blaster",
+    "category": "Toys",
+    "price": "3499",
+    "description": "The Nerf Elite 2.0 Blaster comes with improved firing mechanisms and 20 darts for competitive play.",
+    "brand": "Nerf"
+  },
+  {
+    "id": 45,
+    "name": "Fisher-Price Laugh & Learn Smart Stages Puppy",
+    "category": "Toys",
+    "price": "2999",
+    "description": "Interactive puppy toy by Fisher-Price with songs, lights, and sounds to engage young learners.",
+    "brand": "Fisher-Price"
+  },
+  {
+    "id": 46,
+    "name": "Rubik's Cube 3x3",
+    "category": "Toys",
+    "price": "499",
+    "description": "The classic Rubik's Cube is a timeless puzzle toy that challenges logic and problem-solving skills.",
+    "brand": "Rubik's"
+  },
+  {
+    "id": 47,
+    "name": "Transformers Optimus Prime Action Figure",
+    "category": "Toys",
+    "price": "2499",
+    "description": "Optimus Prime action figure with transforming capabilities and detailed design for Transformers fans.",
+    "brand": "Transformers"
+  },
+  {
+    "id": 48,
+    "name": "Monopoly Classic Board Game",
+    "category": "Toys",
+    "price": "1499",
+    "description": "Monopoly is the classic property trading board game that guarantees hours of family fun.",
+    "brand": "Hasbro"
+  },
+  {
+    "id": 49,
+    "name": "Mattel Uno Card Game",
+    "category": "Toys",
+    "price": "299",
+    "description": "The Mattel Uno Card Game is a fun, fast-paced card game perfect for family and friends.",
+    "brand": "Mattel"
+  },
+  {
+    "id": 50,
+    "name": "Play-Doh Super Color Pack",
+    "category": "Toys",
+    "price": "899",
+    "description": "Play-Doh Super Color Pack includes 20 different colored tubs of Play-Doh for creative fun.",
+    "brand": "Play-Doh"
+  },
+  {
+    "id": 51,
+    "name": "RC Remote Control Car",
+    "category": "Toys",
+    "price": "1999",
+    "description": "A high-speed RC car with a durable build and multi-terrain capabilities for exciting play.",
+    "brand": "RC Toys"
+  },
+  {
+    "id": 52,
+    "name": "Baby Shark Singing Plush",
+    "category": "Toys",
+    "price": "1499",
+    "description": "Baby Shark Singing Plush plays the popular 'Baby Shark' song with a soft and cuddly design.",
+    "brand": "Pinkfong"
+  },
+  {
+    "id": 53,
+    "name": "LEGO Star Wars Millennium Falcon",
+    "category": "Toys",
+    "price": "15999",
+    "description": "A detailed LEGO set of the Millennium Falcon with authentic Star Wars features.",
+    "brand": "Lego"
+  },
+  {
+    "id": 54,
+    "name": "Wooden Jenga Classic Game",
+    "category": "Toys",
+    "price": "999",
+    "description": "The classic Jenga game with wooden blocks for exciting, gravity-defying challenges.",
+    "brand": "Jenga"
+  },
+  {
+    "id": 55,
+    "name": "Paw Patrol Adventure Bay Tower",
+    "category": "Toys",
+    "price": "3499",
+    "description": "The Paw Patrol Adventure Bay Tower playset includes characters and accessories for fun rescue missions.",
+    "brand": "Paw Patrol"
+  },
+  {
+    "id": 56,
+    "name": "Slime Kit for Kids",
+    "category": "Toys",
+    "price": "899",
+    "description": "A DIY slime kit that includes colorful slime materials and fun add-ons for creativity.",
+    "brand": "SlimeLab"
+  },
+  {
+    "id": 57,
+    "name": "Toy Kitchen Set",
+    "category": "Toys",
+    "price": "2499",
+    "description": "A detailed toy kitchen set with utensils, pretend food, and cooking accessories for kids.",
+    "brand": "Little Chefs"
+  },
+  {
+    "id": 58,
+    "name": "Crayola Art & Craft Kit",
+    "category": "Toys",
+    "price": "1299",
+    "description": "Crayola Art & Craft Kit includes markers, crayons, and papers for creative arts and crafts activities.",
+    "brand": "Crayola"
+  },
+  {
+    "id": 59,
+    "name": "Melissa & Doug Wooden Train Set",
+    "category": "Toys",
+    "price": "3499",
+    "description": "A wooden train set with tracks and cars, perfect for imaginative play.",
+    "brand": "Melissa & Doug"
+  },
+  {
+    "id": 60,
+    "name": "FurReal Friends Interactive Pet",
+    "category": "Toys",
+    "price": "3999",
+    "description": "FurReal Friends Interactive Pet responds to touch with lifelike movements and sounds.",
+    "brand": "FurReal"
+  },
+  {
+    "id": 61,
+    "name": "Pedigree Adult Dry Dog Food",
+    "category": "Pet Food",
+    "price": "849",
+    "description": "Pedigree Adult Dry Dog Food provides balanced nutrition with chicken as the main ingredient and essential vitamins.",
+    "brand": "Pedigree"
+  },
+  {
+    "id": 62,
+    "name": "Whiskas Kitten Wet Food",
+    "category": "Pet Food",
+    "price": "399",
+    "description": "Whiskas Kitten Wet Food is rich in protein and nutrients for the healthy growth of kittens.",
+    "brand": "Whiskas"
+  },
+  {
+    "id": 63,
+    "name": "Royal Canin Maxi Adult Dog Food",
+    "category": "Pet Food",
+    "price": "2599",
+    "description": "Royal Canin Maxi Adult Dog Food is specially formulated for large breed adult dogs to maintain their energy levels.",
+    "brand": "Royal Canin"
+  },
+  {
+    "id": 64,
+    "name": "Drools Absolute Calcium Milk Bone",
+    "category": "Pet Food",
+    "price": "249",
+    "description": "Drools Calcium Milk Bone ensures strong teeth and bones with an irresistible taste for dogs.",
+    "brand": "Drools"
+  },
+  {
+    "id": 65,
+    "name": "Me-O Cat Food Tuna Flavor",
+    "category": "Pet Food",
+    "price": "499",
+    "description": "Me-O Cat Food with Tuna flavor is enriched with taurine and vitamin C for healthy vision and immunity.",
+    "brand": "Me-O"
+  },
+  {
+    "id": 66,
+    "name": "Purina Supercoat Puppy Food",
+    "category": "Pet Food",
+    "price": "1299",
+    "description": "Purina Supercoat Puppy Food is tailored for growing puppies, packed with nutrients for healthy development.",
+    "brand": "Purina"
+  },
+  {
+    "id": 67,
+    "name": "SmartHeart Dog Biscuits",
+    "category": "Pet Food",
+    "price": "199",
+    "description": "SmartHeart Dog Biscuits are crunchy treats with chicken flavor that support dental health.",
+    "brand": "SmartHeart"
+  },
+  {
+    "id": 68,
+    "name": "Sheba Wet Cat Food Chicken & Tuna",
+    "category": "Pet Food",
+    "price": "120",
+    "description": "Sheba Wet Cat Food provides a delicious and moist meal with a combination of chicken and tuna.",
+    "brand": "Sheba"
+  },
+  {
+    "id": 69,
+    "name": "IAMS Proactive Health Dry Cat Food",
+    "category": "Pet Food",
+    "price": "999",
+    "description": "IAMS Proactive Health Dry Cat Food supports healthy digestion and a shiny coat for adult cats.",
+    "brand": "IAMS"
+  },
+  {
+    "id": 70,
+    "name": "Cesar Wet Dog Food Lamb & Rice",
+    "category": "Pet Food",
+    "price": "100",
+    "description": "Cesar Wet Dog Food with Lamb & Rice offers a delicious and nutritious meal for adult dogs.",
+    "brand": "Cesar"
+  },
+  {
+    "id": 71,
+    "name": "Himalaya Healthy Treats for Dogs",
+    "category": "Pet Food",
+    "price": "150",
+    "description": "Himalaya Healthy Treats are packed with herbal nutrients that promote better digestion and coat health.",
+    "brand": "Himalaya"
+  },
+  {
+    "id": 72,
+    "name": "Goodies Energy Treats for Dogs",
+    "category": "Pet Food",
+    "price": "350",
+    "description": "Goodies Energy Treats provide a high-protein snack for active dogs to maintain their energy levels.",
+    "brand": "Goodies"
+  },
+  {
+    "id": 73,
+    "name": "Farmina N&D Low-Grain Dog Food",
+    "category": "Pet Food",
+    "price": "1899",
+    "description": "Farmina N&D Low-Grain Dog Food is ideal for dogs with sensitive stomachs, enriched with pumpkin and chicken.",
+    "brand": "Farmina"
+  },
+  {
+    "id": 74,
+    "name": "Choostix Dog Treats with Chicken",
+    "category": "Pet Food",
+    "price": "249",
+    "description": "Choostix Dog Treats are tasty chew sticks with chicken flavor, promoting dental health.",
+    "brand": "Choostix"
+  },
+  {
+    "id": 75,
+    "name": "Taste of the Wild Cat Food Rocky Mountain",
+    "category": "Pet Food",
+    "price": "3499",
+    "description": "Taste of the Wild Rocky Mountain is grain-free cat food with roasted venison and salmon.",
+    "brand": "Taste of the Wild"
+  },
+  {
+    "id": 76,
+    "name": "Pedigree Gravy Puppy Food",
+    "category": "Pet Food",
+    "price": "30",
+    "description": "Pedigree Gravy Puppy Food offers a tasty and nutritious gravy meal for growing puppies.",
+    "brand": "Pedigree"
+  },
+  {
+    "id": 77,
+    "name": "Whiskas Adult Cat Food Mackerel Flavor",
+    "category": "Pet Food",
+    "price": "400",
+    "description": "Whiskas Adult Cat Food with mackerel flavor provides essential nutrients for a healthy adult cat.",
+    "brand": "Whiskas"
+  },
+  {
+    "id": 78,
+    "name": "Petkin Breath Freshening Dog Treats",
+    "category": "Pet Food",
+    "price": "249",
+    "description": "Petkin Breath Freshening Treats help control bad breath and support oral hygiene in dogs.",
+    "brand": "Petkin"
+  },
+  {
+    "id": 79,
+    "name": "Drools Puppy Starter Food",
+    "category": "Pet Food",
+    "price": "1899",
+    "description": "Drools Puppy Starter Food is a complete weaning diet for puppies under 3 months of age.",
+    "brand": "Drools"
+  },
+  {
+    "id": 80,
+    "name": "Royal Canin Hairball Care Cat Food",
+    "category": "Pet Food",
+    "price": "2499",
+    "description": "Royal Canin Hairball Care Cat Food reduces hairball formation and promotes digestive health in adult cats.",
+    "brand": "Royal Canin"
+  },
+  {
+    "id": 81,
+    "name": "Sofa Set 3 Seater",
+    "category": "Furniture",
+    "price": "24999",
+    "description": "This comfortable 3-seater sofa set is made from high-quality fabric and comes with soft cushions, perfect for living rooms.",
+    "brand": "Urban Living"
+  },
+  {
+    "id": 82,
+    "name": "Wooden Dining Table Set",
+    "category": "Furniture",
+    "price": "17999",
+    "description": "This elegant wooden dining table set includes a large table and 6 chairs, crafted with premium quality wood.",
+    "brand": "Woodcraft"
+  },
+  {
+    "id": 83,
+    "name": "Queen Size Bed with Storage",
+    "category": "Furniture",
+    "price": "21999",
+    "description": "A stylish queen-size bed with ample storage space and a durable wooden frame, perfect for modern bedrooms.",
+    "brand": "Home Elegance"
+  },
+  {
+    "id": 84,
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": "4999",
+    "description": "This ergonomic office chair features lumbar support, an adjustable height, and a breathable mesh backrest.",
+    "brand": "ErgoCare"
+  },
+  {
+    "id": 85,
+    "name": "Bookshelf with 5 Shelves",
+    "category": "Furniture",
+    "price": "7999",
+    "description": "A sturdy and elegant bookshelf with five shelves, perfect for organizing books and decorative items.",
+    "brand": "ShelfStyle"
+  },
+  {
+    "id": 86,
+    "name": "Coffee Table with Storage",
+    "category": "Furniture",
+    "price": "5999",
+    "description": "This modern coffee table comes with built-in storage, making it functional and stylish for your living room.",
+    "brand": "ModernSpace"
+  },
+  {
+    "id": 87,
+    "name": "Recliner Sofa Chair",
+    "category": "Furniture",
+    "price": "14999",
+    "description": "A comfortable recliner sofa chair with adjustable positions, perfect for relaxation and lounging.",
+    "brand": "ComfortZone"
+  },
+  {
+    "id": 88,
+    "name": "Kids Study Desk",
+    "category": "Furniture",
+    "price": "4499",
+    "description": "A compact and colorful study desk for kids with storage drawers, designed for study and play.",
+    "brand": "EduFun"
+  },
+  {
+    "id": 89,
+    "name": "Wardrobe with Mirror",
+    "category": "Furniture",
+    "price": "12999",
+    "description": "A spacious wardrobe with a built-in mirror and multiple compartments for organizing clothes and accessories.",
+    "brand": "OrganizePlus"
+  },
+  {
+    "id": 90,
+    "name": "Outdoor Patio Set",
+    "category": "Furniture",
+    "price": "15999",
+    "description": "A weather-resistant patio set with a table and four chairs, ideal for outdoor lounging.",
+    "brand": "PatioLife"
+  },
+  {
+    "id": 91,
+    "name": "Foldable Study Table",
+    "category": "Furniture",
+    "price": "1999",
+    "description": "A lightweight, foldable study table with a compact design for easy storage and portability.",
+    "brand": "StudyEase"
+  },
+  {
+    "id": 92,
+    "name": "Leatherette Sofa Bed",
+    "category": "Furniture",
+    "price": "16999",
+    "description": "A multifunctional leatherette sofa bed that combines style with practicality for compact spaces.",
+    "brand": "SpaceSaver"
+  },
+  {
+    "id": 93,
+    "name": "Wall-Mounted TV Unit",
+    "category": "Furniture",
+    "price": "7499",
+    "description": "A sleek wall-mounted TV unit with ample storage space for electronics and decor items.",
+    "brand": "TVBuddy"
+  },
+  {
+    "id": 94,
+    "name": "Rocking Chair",
+    "category": "Furniture",
+    "price": "5999",
+    "description": "A classic wooden rocking chair with a comfortable seat and armrests, perfect for relaxing.",
+    "brand": "RelaxWood"
+  },
+  {
+    "id": 95,
+    "name": "Chest of Drawers",
+    "category": "Furniture",
+    "price": "8999",
+    "description": "A durable chest of drawers with a modern design, providing plenty of storage for clothes and essentials.",
+    "brand": "DrawerStyle"
+  },
+  {
+    "id": 96,
+    "name": "Bar Stool Set of 2",
+    "category": "Furniture",
+    "price": "4999",
+    "description": "A stylish bar stool set with adjustable height and a chrome finish, suitable for home bars and counters.",
+    "brand": "BarLife"
+  },
+  {
+    "id": 97,
+    "name": "L-shaped Sofa",
+    "category": "Furniture",
+    "price": "32999",
+    "description": "A spacious L-shaped sofa with plush cushions and a contemporary design for large living rooms.",
+    "brand": "Urban Living"
+  },
+  {
+    "id": 98,
+    "name": "Dining Bench",
+    "category": "Furniture",
+    "price": "3999",
+    "description": "A sturdy dining bench crafted from solid wood, perfect for pairing with dining tables.",
+    "brand": "Woodcraft"
+  },
+  {
+    "id": 99,
+    "name": "Bunk Bed for Kids",
+    "category": "Furniture",
+    "price": "20999",
+    "description": "A compact and fun bunk bed with a ladder and safety railings, designed for kids' bedrooms.",
+    "brand": "SleepWell"
+  },
+  {
+    "id": 100,
+    "name": "Round Ottoman",
+    "category": "Furniture",
+    "price": "2999",
+    "description": "A versatile round ottoman with a padded top, perfect as a footrest or additional seating.",
+    "brand": "ComfortZone"
+  },
+  {
+    "id": 101,
+    "name": "Cotton T-shirt",
+    "category": "Clothes",
+    "price": "699",
+    "description": "A soft cotton T-shirt perfect for casual wear, available in multiple colors.",
+    "brand": "Basic Wear"
+  },
+  {
+    "id": 102,
+    "name": "Levi's 501 Original Jeans",
+    "category": "Clothes",
+    "price": "3999",
+    "description": "Classic-fit Levi's jeans offering durability and timeless style.",
+    "brand": "Levi's"
+  },
+  {
+    "id": 103,
+    "name": "Formal Shirt",
+    "category": "Clothes",
+    "price": "1299",
+    "description": "A sleek formal shirt crafted from premium cotton, ideal for office wear.",
+    "brand": "Classic Style"
+  },
+  {
+    "id": 104,
+    "name": "Summer Dress",
+    "category": "Clothes",
+    "price": "2499",
+    "description": "A lightweight summer dress with floral patterns, perfect for sunny days.",
+    "brand": "ChicWear"
+  },
+  {
+    "id": 105,
+    "name": "Hooded Sweatshirt",
+    "category": "Clothes",
+    "price": "1799",
+    "description": "A cozy hooded sweatshirt made from fleece for warmth and comfort.",
+    "brand": "ComfyWear"
+  },
+  {
+    "id": 106,
+    "name": "Sports Shorts",
+    "category": "Clothes",
+    "price": "999",
+    "description": "Durable and breathable sports shorts designed for active lifestyles.",
+    "brand": "AthleisurePro"
+  },
+  {
+    "id": 107,
+    "name": "Winter Jacket",
+    "category": "Clothes",
+    "price": "4999",
+    "description": "A high-quality winter jacket with insulation and a water-resistant exterior.",
+    "brand": "ArcticGear"
+  },
+  {
+    "id": 108,
+    "name": "Cargo Pants",
+    "category": "Clothes",
+    "price": "1999",
+    "description": "Stylish and functional cargo pants with multiple pockets for convenience.",
+    "brand": "UtilityWear"
+  },
+  {
+    "id": 109,
+    "name": "Maxi Skirt",
+    "category": "Clothes",
+    "price": "1499",
+    "description": "A flowy maxi skirt with vibrant prints, suitable for casual outings.",
+    "brand": "BohoStyle"
+  },
+  {
+    "id": 110,
+    "name": "Basic Leggings",
+    "category": "Clothes",
+    "price": "899",
+    "description": "Comfortable and stretchable basic leggings for daily wear.",
+    "brand": "FlexiFit"
+  },
+  {
+    "id": 111,
+    "name": "Denim Jacket",
+    "category": "Clothes",
+    "price": "2999",
+    "description": "A rugged denim jacket with a modern fit, perfect for layering.",
+    "brand": "UrbanTrends"
+  },
+  {
+    "id": 112,
+    "name": "Silk Saree",
+    "category": "Clothes",
+    "price": "7999",
+    "description": "An elegant silk saree with intricate embroidery, ideal for festive occasions.",
+    "brand": "EthnicCharm"
+  },
+  {
+    "id": 113,
+    "name": "Track Suit",
+    "category": "Clothes",
+    "price": "3499",
+    "description": "A comfortable tracksuit made from moisture-wicking fabric for sports and leisure.",
+    "brand": "SportEase"
+  },
+  {
+    "id": 114,
+    "name": "Men's Blazer",
+    "category": "Clothes",
+    "price": "5999",
+    "description": "A tailored men's blazer, perfect for formal and semi-formal events.",
+    "brand": "SharpWear"
+  },
+  {
+    "id": 115,
+    "name": "Printed Kurta",
+    "category": "Clothes",
+    "price": "1899",
+    "description": "A stylish printed kurta crafted with soft fabric, suitable for traditional occasions.",
+    "brand": "FestiveVibes"
+  },
+  {
+    "id": 116,
+    "name": "Bikini Set",
+    "category": "Clothes",
+    "price": "2499",
+    "description": "A trendy bikini set with a comfortable fit and vibrant colors.",
+    "brand": "BeachTime"
+  },
+  {
+    "id": 117,
+    "name": "Baby Romper",
+    "category": "Clothes",
+    "price": "799",
+    "description": "A soft and adorable baby romper made with skin-friendly material.",
+    "brand": "BabyCare"
+  },
+  {
+    "id": 118,
+    "name": "Ankle Boots",
+    "category": "Clothes",
+    "price": "3499",
+    "description": "Fashionable ankle boots with a durable sole and comfortable fit.",
+    "brand": "StepStyle"
+  },
+  {
+    "id": 119,
+    "name": "Puffer Vest",
+    "category": "Clothes",
+    "price": "2999",
+    "description": "A lightweight puffer vest that provides warmth without bulk.",
+    "brand": "OutdoorWear"
+  },
+  {
+    "id": 120,
+    "name": "Swim Trunks",
+    "category": "Clothes",
+    "price": "1199",
+    "description": "Quick-drying swim trunks with a modern design and comfortable fit.",
+    "brand": "AquaStyle"
+  },
+  {
+    "id": 121,
+    "name": "L'Oreal Paris True Match Foundation",
+    "category": "Makeup",
+    "price": "799",
+    "description": "A lightweight foundation offering seamless coverage and a natural finish.",
+    "brand": "L'Oreal"
+  },
+  {
+    "id": 122,
+    "name": "Maybelline New York Mascara",
+    "category": "Makeup",
+    "price": "399",
+    "description": "A volumizing mascara that provides dramatic lashes with a long-lasting formula.",
+    "brand": "Maybelline"
+  },
+  {
+    "id": 123,
+    "name": "MAC Retro Matte Lipstick",
+    "category": "Makeup",
+    "price": "1700",
+    "description": "A bold matte lipstick available in vibrant shades for a stunning look.",
+    "brand": "MAC"
+  },
+  {
+    "id": 124,
+    "name": "Nykaa Kajal",
+    "category": "Makeup",
+    "price": "299",
+    "description": "A smudge-proof kajal offering intense black color for defined eyes.",
+    "brand": "Nykaa"
+  },
+  {
+    "id": 125,
+    "name": "Lakme Face Compact Powder",
+    "category": "Makeup",
+    "price": "199",
+    "description": "A face powder that provides a matte finish and controls oil effectively.",
+    "brand": "Lakme"
+  },
+  {
+    "id": 126,
+    "name": "Huda Beauty Eyeshadow Palette",
+    "category": "Makeup",
+    "price": "4999",
+    "description": "A premium eyeshadow palette with vibrant shades and a smooth texture.",
+    "brand": "Huda Beauty"
+  },
+  {
+    "id": 127,
+    "name": "Revlon ColorStay Liquid Eyeliner",
+    "category": "Makeup",
+    "price": "550",
+    "description": "A long-lasting liquid eyeliner that provides precise application and bold lines.",
+    "brand": "Revlon"
+  },
+  {
+    "id": 128,
+    "name": "Colorbar Nail Lacquer",
+    "category": "Makeup",
+    "price": "250",
+    "description": "A high-gloss nail polish with quick-drying and chip-resistant formula.",
+    "brand": "Colorbar"
+  },
+  {
+    "id": 129,
+    "name": "Sugar Blush Stick",
+    "category": "Makeup",
+    "price": "799",
+    "description": "A creamy blush stick that blends effortlessly for a natural flush of color.",
+    "brand": "Sugar Cosmetics"
+  },
+  {
+    "id": 130,
+    "name": "c",
+    "category": "Makeup",
+    "price": "3200",
+    "description": "A shimmering highlighter that enhances your glow with a silky formula.",
+    "brand": "Fenty Beauty"
+  },
+  {
+    "id": 131,
+    "name": "Clinique Makeup Remover",
+    "category": "Makeup",
+    "price": "900",
+    "description": "A gentle makeup remover suitable for sensitive skin, effectively cleanses all makeup.",
+    "brand": "Clinique"
+  },
+  {
+    "id": 132,
+    "name": "Kylie Cosmetics Lip Kit",
+    "category": "Makeup",
+    "price": "2800",
+    "description": "A lip kit featuring a matte liquid lipstick and a matching lip liner.",
+    "brand": "Kylie Cosmetics"
+  },
+  {
+    "id": 133,
+    "name": "Benefit Cosmetics Brow Gel",
+    "category": "Makeup",
+    "price": "2200",
+    "description": "A clear brow gel that shapes and sets eyebrows for a polished look.",
+    "brand": "Benefit Cosmetics"
+  },
+  {
+    "id": 134,
+    "name": "Bobbi Brown BB Cream",
+    "category": "Makeup",
+    "price": "3900",
+    "description": "A multi-tasking BB cream that provides hydration, SPF protection, and light coverage.",
+    "brand": "Bobbi Brown"
+  },
+  {
+    "id": 135,
+    "name": "Urban Decay Setting Spray",
+    "category": "Makeup",
+    "price": "2900",
+    "description": "A setting spray that locks in makeup for a long-lasting, flawless finish.",
+    "brand": "Urban Decay"
+  },
+  {
+    "id": 136,
+    "name": "Essence Volume Lip Gloss",
+    "category": "Makeup",
+    "price": "350",
+    "description": "A non-sticky lip gloss that provides a shiny, plumped look.",
+    "brand": "Essence"
+  },
+  {
+    "id": 137,
+    "name": "Smashbox Photo Finish Primer",
+    "category": "Makeup",
+    "price": "2500",
+    "description": "A lightweight primer that creates a smooth base for flawless makeup application.",
+    "brand": "Smashbox"
+  },
+  {
+    "id": 138,
+    "name": "Sephora Matte Bronzer",
+    "category": "Makeup",
+    "price": "2000",
+    "description": "A silky matte bronzer that adds a sun-kissed glow to the skin.",
+    "brand": "Sephora"
+  },
+  {
+    "id": 139,
+    "name": "The Body Shop Lip Balm",
+    "category": "Makeup",
+    "price": "499",
+    "description": "A hydrating lip balm enriched with natural ingredients for soft, supple lips.",
+    "brand": "The Body Shop"
+  },
+  {
+    "id": 140,
+    "name": "Tarte Shape Tape Concealer",
+    "category": "Makeup",
+    "price": "2700",
+    "description": "A full-coverage concealer that effectively covers blemishes and dark circles.",
+    "brand": "Tarte"
+  },
+  {
+    "id": 141,
+    "name": "Parker Vector Fountain Pen",
+    "category": "Stationary",
+    "price": "599",
+    "description": "A premium fountain pen that ensures smooth writing with a classic design.",
+    "brand": "Parker"
+  },
+  {
+    "id": 142,
+    "name": "Staples A4 Copier Paper (500 Sheets)",
+    "category": "Stationary",
+    "price": "399",
+    "description": "High-quality copier paper ideal for office and school use.",
+    "brand": "Staples"
+  },
+  {
+    "id": 143,
+    "name": "Camlin Artist Water Colors",
+    "category": "Stationary",
+    "price": "799",
+    "description": "A set of vibrant watercolors for professional artists and hobbyists.",
+    "brand": "Camlin"
+  },
+  {
+    "id": 144,
+    "name": "Classmate Spiral Notebook (300 Pages)",
+    "category": "Stationary",
+    "price": "199",
+    "description": "A durable spiral-bound notebook suitable for students and professionals.",
+    "brand": "Classmate"
+  },
+  {
+    "id": 145,
+    "name": "Faber-Castell Mechanical Pencil",
+    "category": "Stationary",
+    "price": "299",
+    "description": "A mechanical pencil with a sturdy design for precise writing and drawing.",
+    "brand": "Faber-Castell"
+  },
+  {
+    "id": 146,
+    "name": "Post-it Sticky Notes (Pack of 5)",
+    "category": "Stationary",
+    "price": "250",
+    "description": "Colorful sticky notes perfect for reminders and organizing tasks.",
+    "brand": "Post-it"
+  },
+  {
+    "id": 147,
+    "name": "Luxor Permanent Marker (Set of 10)",
+    "category": "Stationary",
+    "price": "350",
+    "description": "Durable permanent markers for use on various surfaces.",
+    "brand": "Luxor"
+  },
+  {
+    "id": 148,
+    "name": "Stapler with 500 Staples",
+    "category": "Stationary",
+    "price": "150",
+    "description": "A compact and reliable stapler for everyday office use.",
+    "brand": "Kangaro"
+  },
+  {
+    "id": 149,
+    "name": "Pilot Hi-Techpoint Pen (Pack of 3)",
+    "category": "Stationary",
+    "price": "225",
+    "description": "Smooth and precise gel pens for professional writing.",
+    "brand": "Pilot"
+  },
+  {
+    "id": 150,
+    "name": "Scotch Transparent Tape (Pack of 6)",
+    "category": "Stationary",
+    "price": "180",
+    "description": "Multi-purpose transparent tape for office and home use.",
+    "brand": "Scotch"
+  },
+  {
+    "id": 151,
+    "name": "Apsara Platinum Pencils (Set of 10)",
+    "category": "Stationary",
+    "price": "70",
+    "description": "Premium quality pencils with a smooth graphite core.",
+    "brand": "Apsara"
+  },
+  {
+    "id": 152,
+    "name": "Fevicol Glue Bottle (200g)",
+    "category": "Stationary",
+    "price": "90",
+    "description": "Strong adhesive suitable for crafts and DIY projects.",
+    "brand": "Fevicol"
+  },
+  {
+    "id": 153,
+    "name": "Steel Ruler (30 cm)",
+    "category": "Stationary",
+    "price": "50",
+    "description": "A durable steel ruler for precise measurements.",
+    "brand": "Camlin"
+  },
+  {
+    "id": 154,
+    "name": "ColorBar Gel Highlighters (Set of 5)",
+    "category": "Stationary",
+    "price": "250",
+    "description": "Bright and smudge-resistant gel highlighters.",
+    "brand": "ColorBar"
+  },
+  {
+    "id": 155,
+    "name": "Maped Geometry Box",
+    "category": "Stationary",
+    "price": "199",
+    "description": "A complete geometry set for school students.",
+    "brand": "Maped"
+  },
+  {
+    "id": 156,
+    "name": "Camlin Whiteboard Markers (Set of 4)",
+    "category": "Stationary",
+    "price": "150",
+    "description": "Easy-to-erase whiteboard markers with vibrant colors.",
+    "brand": "Camlin"
+  },
+  {
+    "id": 157,
+    "name": "Deli Paper Cutter",
+    "category": "Stationary",
+    "price": "399",
+    "description": "A sharp and efficient paper cutter for clean cuts.",
+    "brand": "Deli"
+  },
+  {
+    "id": 158,
+    "name": "Exam Pad with Clip",
+    "category": "Stationary",
+    "price": "99",
+    "description": "A sturdy exam pad with a metal clip for secure holding.",
+    "brand": "Classmate"
+  },
+  {
+    "id": 159,
+    "name": "Oxford Advanced Learner's Notebook",
+    "category": "Stationary",
+    "price": "299",
+    "description": "A high-quality notebook for notes and learning.",
+    "brand": "Oxford"
+  },
+  {
+    "id": 160,
+    "name": "Eraser and Sharpener Combo",
+    "category": "Stationary",
+    "price": "50",
+    "description": "A combo pack for clean erasing and precision sharpening.",
+    "brand": "Nataraj"
+  },
+  {
+    "id": 161,
+    "name": "Dell Inspiron 15 Laptop",
+    "category": "Laptops",
+    "price": "52999",
+    "description": "A powerful laptop with Intel Core i5, 8GB RAM, and 512GB SSD for work and entertainment.",
+    "brand": "Dell"
+  },
+  {
+    "id": 162,
+    "name": "HP Pavilion x360 Laptop",
+    "category": "Laptops",
+    "price": "74999",
+    "description": "A convertible laptop with a touchscreen, Intel Core i7 processor, and 16GB RAM.",
+    "brand": "HP"
+  },
+  {
+    "id": 163,
+    "name": "Apple MacBook Air M2",
+    "category": "Laptops",
+    "price": "99999",
+    "description": "The MacBook Air with M2 chip delivers impressive performance in a sleek design.",
+    "brand": "Apple"
+  },
+  {
+    "id": 164,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "category": "Laptops",
+    "price": "119999",
+    "description": "A business laptop with Intel Core i7, 16GB RAM, and 512GB SSD for productivity.",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 165,
+    "name": "Acer Aspire 5 Laptop",
+    "category": "Laptops",
+    "price": "45999",
+    "description": "A budget-friendly laptop with Intel Core i5, 8GB RAM, and 512GB SSD.",
+    "brand": "Acer"
+  },
+  {
+    "id": 166,
+    "name": "Asus ROG Zephyrus G14",
+    "category": "Laptops",
+    "price": "129999",
+    "description": "A gaming laptop with AMD Ryzen 9, 16GB RAM, and Nvidia GeForce RTX 3060.",
+    "brand": "Asus"
+  },
+  {
+    "id": 167,
+    "name": "Microsoft Surface Laptop 4",
+    "category": "Laptops",
+    "price": "97999",
+    "description": "Sleek design with Intel Core i5, 8GB RAM, and 512GB SSD for performance and portability.",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 168,
+    "name": "HP Envy 13 Laptop",
+    "category": "Laptops",
+    "price": "84999",
+    "description": "A slim, stylish laptop with Intel Core i7, 16GB RAM, and 512GB SSD for daily tasks.",
+    "brand": "HP"
+  },
+  {
+    "id": 169,
+    "name": "Samsung Galaxy Book Pro 360",
+    "category": "Laptops",
+    "price": "109999",
+    "description": "A versatile laptop with Intel Core i7, 16GB RAM, and a 360-degree touchscreen.",
+    "brand": "Samsung"
+  },
+  {
+    "id": 170,
+    "name": "Asus VivoBook 14",
+    "category": "Laptops",
+    "price": "34999",
+    "description": "A budget-friendly laptop with Intel Core i3, 4GB RAM, and 256GB SSD.",
+    "brand": "Asus"
+  },
+  {
+    "id": 171,
+    "name": "Dell XPS 13 Laptop",
+    "category": "Laptops",
+    "price": "99999",
+    "description": "A premium laptop with Intel Core i7, 16GB RAM, and a 512GB SSD.",
+    "brand": "Dell"
+  },
+  {
+    "id": 172,
+    "name": "Lenovo IdeaPad Slim 3",
+    "category": "Laptops",
+    "price": "37999",
+    "description": "Affordable laptop with Intel Core i5, 8GB RAM, and 512GB SSD for daily use.",
+    "brand": "Lenovo"
+  },
+  {
+    "id": 173,
+    "name": "HP Omen 15 Gaming Laptop",
+    "category": "Laptops",
+    "price": "129999",
+    "description": "A powerful gaming laptop with Intel Core i7, 16GB RAM, and Nvidia GeForce RTX 3060.",
+    "brand": "HP"
+  },
+  {
+    "id": 174,
+    "name": "MSI GF63 Thin Laptop",
+    "category": "Laptops",
+    "price": "59999",
+    "description": "Affordable gaming laptop with Intel Core i5, 8GB RAM, and Nvidia GTX 1650.",
+    "brand": "MSI"
+  },
+  {
+    "id": 175,
+    "name": "Razer Blade 15 Gaming Laptop",
+    "category": "Laptops",
+    "price": "189999",
+    "description": "Premium gaming laptop with Intel Core i7, 16GB RAM, and Nvidia GeForce RTX 3070.",
+    "brand": "Razer"
+  },
+  {
+    "id": 176,
+    "name": "Apple MacBook Pro 16-inch",
+    "category": "Laptops",
+    "price": "239999",
+    "description": "A powerhouse with Apple M1 Pro chip, 32GB RAM, and 1TB SSD for professionals.",
+    "brand": "Apple"
+  },
+  {
+    "id": 177,
+    "name": "Google Pixelbook Go",
+    "category": "Laptops",
+    "price": "79999",
+    "description": "A Chromebook with Intel Core i5, 8GB RAM, and a 64GB SSD.",
+    "brand": "Google"
+  },
+  {
+    "id": 178,
+    "name": "HP Elite Dragonfly",
+    "category": "Laptops",
+    "price": "149999",
+    "description": "Business laptop with Intel Core i7, 16GB RAM, and a 512GB SSD in a lightweight design.",
+    "brand": "HP"
+  },
+  {
+    "id": 179,
+    "name": "Acer Swift 3 Laptop",
+    "category": "Laptops",
+    "price": "57999",
+    "description": "Sleek laptop with Intel Core i5, 8GB RAM, and 512GB SSD for work and entertainment.",
+    "brand": "Acer"
+  },
+  {
+    "id": 180,
+    "name": "Asus ZenBook 14",
+    "category": "Laptops",
+    "price": "79999",
+    "description": "A stylish ultrabook with Intel Core i7, 16GB RAM, and 512GB SSD for productivity.",
+    "brand": "Asus"
+  },
+  {
+    "id": 181,
+    "name": "Prestige Aluminium Pressure Cooker",
+    "category": "Utensils",
+    "price": "2499",
+    "description": "Prestige Aluminium Pressure Cooker ensures quick cooking with its durable build and safety features.",
+    "brand": "Prestige"
+  },
+  {
+    "id": 182,
+    "name": "Pigeon Non-Stick Fry Pan",
+    "category": "Utensils",
+    "price": "999",
+    "description": "The Pigeon Non-Stick Fry Pan offers a durable, easy-to-clean cooking surface that ensures healthier cooking with minimal oil.",
+    "brand": "Pigeon"
+  },
+  {
+    "id": 183,
+    "name": "Borosil Glass Serving Bowl Set",
+    "category": "Utensils",
+    "price": "1199",
+    "description": "Borosil Glass Serving Bowls are perfect for serving food and can be used for both cooking and storing.",
+    "brand": "Borosil"
+  },
+  {
+    "id": 184,
+    "name": "Tefal Cookware Set",
+    "category": "Utensils",
+    "price": "7999",
+    "description": "Tefal Cookware Set features non-stick pots and pans for easy cooking and cleaning.",
+    "brand": "Tefal"
+  },
+  {
+    "id": 185,
+    "name": "Fissler Pressure Cooker",
+    "category": "Utensils",
+    "price": "5999",
+    "description": "A premium pressure cooker with advanced safety features and quick cooking technology.",
+    "brand": "Fissler"
+  },
+  {
+    "id": 186,
+    "name": "Hawkins Contura Pressure Cooker",
+    "category": "Utensils",
+    "price": "2199",
+    "description": "The Hawkins Contura Pressure Cooker ensures faster cooking and is equipped with an easy-to-use lid.",
+    "brand": "Hawkins"
+  },
+  {
+    "id": 187,
+    "name": "Cuisinart Non-Stick Griddle Pan",
+    "category": "Utensils",
+    "price": "2499",
+    "description": "The Cuisinart Griddle Pan is ideal for making pancakes, eggs, and more with a non-stick surface.",
+    "brand": "Cuisinart"
+  },
+  {
+    "id": 188,
+    "name": "Prestige Omega Deluxe Non-Stick Tawa",
+    "category": "Utensils",
+    "price": "1499",
+    "description": "Prestige Omega Deluxe Non-Stick Tawa ensures uniform cooking and is easy to clean.",
+    "brand": "Prestige"
+  },
+  {
+    "id": 189,
+    "name": "Cook N Home Cookware Set",
+    "category": "Utensils",
+    "price": "3499",
+    "description": "A 12-piece cookware set featuring durable, non-stick surfaces and heat-resistant handles.",
+    "brand": "Cook N Home"
+  },
+  {
+    "id": 190,
+    "name": "Vinod Stainless Steel Tiffin Box",
+    "category": "Utensils",
+    "price": "699",
+    "description": "A durable stainless steel tiffin box, perfect for carrying your lunch on the go.",
+    "brand": "Vinod"
+  },
+  {
+    "id": 191,
+    "name": "Butterfly Smart Mixer Grinder",
+    "category": "Utensils",
+    "price": "3499",
+    "description": "A powerful mixer grinder for blending, grinding, and mixing with multiple jars.",
+    "brand": "Butterfly"
+  },
+  {
+    "id": 192,
+    "name": "Pigeon Stainless Steel Water Bottle",
+    "category": "Utensils",
+    "price": "399",
+    "description": "A sturdy, leak-proof stainless steel water bottle for keeping drinks hot or cold.",
+    "brand": "Pigeon"
+  },
+  {
+    "id": 193,
+    "name": "Wonderchef Nutri-Blend Mixer Grinder",
+    "category": "Utensils",
+    "price": "2999",
+    "description": "Compact and powerful mixer grinder, perfect for blending and grinding a variety of ingredients.",
+    "brand": "Wonderchef"
+  },
+  {
+    "id": 194,
+    "name": "Bajaj 2L Electric Kettle",
+    "category": "Utensils",
+    "price": "1299",
+    "description": "A 2L electric kettle with automatic shut-off for quick boiling and energy-efficient performance.",
+    "brand": "Bajaj"
+  },
+  {
+    "id": 195,
+    "name": "Tupperware Modular Storage Containers",
+    "category": "Utensils",
+    "price": "1299",
+    "description": "Modular storage containers that are ideal for organizing food in the kitchen.",
+    "brand": "Tupperware"
+  },
+  {
+    "id": 196,
+    "name": "Chef's Secret Non-Stick Bakeware Set",
+    "category": "Utensils",
+    "price": "2299",
+    "description": "A non-stick bakeware set perfect for baking cakes, cookies, and more.",
+    "brand": "Chef's Secret"
+  },
+  {
+    "id": 197,
+    "name": "Borosil Glass Baking Dish",
+    "category": "Utensils",
+    "price": "799",
+    "description": "A glass baking dish that is ideal for baking casseroles, lasagnas, and more.",
+    "brand": "Borosil"
+  },
+  {
+    "id": 198,
+    "name": "Preethi Zodiac Mixer Grinder",
+    "category": "Utensils",
+    "price": "5999",
+    "description": "A versatile mixer grinder with 5 jars for grinding, blending, juicing, and more.",
+    "brand": "Preethi"
+  },
+  {
+    "id": 199,
+    "name": "Pigeon Induction Cooktop",
+    "category": "Utensils",
+    "price": "1999",
+    "description": "Induction cooktop for fast and energy-efficient cooking.",
+    "brand": "Pigeon"
+  },
+  {
+    "id": 200,
+    "name": "V-Guard Vecto Induction Cooktop",
+    "category": "Utensils",
+    "price": "2499",
+    "description": "V-Guard Vecto induction cooktop offers multi-level cooking options for easy use.",
+    "brand": "V-Guard"
+  }
+]
