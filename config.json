@@ -1,0 +1,8 @@
+{
+"PORT":5502,
+"RAZORPAY_KEY_ID":"<your-razorpay-key-id>",
+"RAZORPAY_KEY_SECRET":"<your-razorpay-key-secret>",
+"EMAIL_SERVICE":"gmail",
+"EMAIL_USER":"<your-email>",
+"EMAIL_PASS":"<your-email-app-password>"
+}
