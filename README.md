@@ -22,7 +22,7 @@ A simple yet fully functional e-commerce website built using Node.js. This proje
 ## Screenshots
 
 ### Homepage
-![Homepage Screenshot](project-images/homepage.png)
+![Homepage Screenshot](project-images/homePage.png)
 
 
 ### Product Page
