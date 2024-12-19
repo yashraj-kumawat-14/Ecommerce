@@ -19,6 +19,66 @@ A simple yet fully functional e-commerce website built using Node.js. This proje
 - **Password Recovery**
   - Reset password using email code verification.
 
+## Screenshots
+
+### Homepage
+![Homepage Screenshot](project-images/homepage.png)
+
+
+### Product Page
+![Product Page Screenshot](project-images/productViewPage.png)
+
+
+### Registraion Page
+![Registration Page 1 Screenshot](project-images/registrationPage1.png)
+![Registration Page 2 Screenshot](project-images/registrationPage2.png)
+![Registration Page 3 Screenshot](project-images/registrationPage3.png)
+![Registration Page 4 Screenshot](project-images/registrationPage4.png)
+
+
+### Password Recovery Page
+![Password Recovery Page](project-images/passwordRecoveryPage.png)
+
+
+### Payment Success Page
+![Payment Success Page](project-images/paymentSuccessPage.png)
+
+
+### Razorpay Payment Success Page
+![Razorpay Payment Success Page](project-images/razorpayPaymentSuccessPage.png)
+
+
+### Razorpay Payment Page
+![Razorpay Payment Page](project-images/razorpayPaymentPage.png)
+
+
+### Checkout Page
+![Checkout Page](project-images/checkoutPage.png)
+
+
+### Product View Page
+![Product View Page](project-images/productViewPage.png)
+
+
+### Search Results Page
+![Search Results Page](project-images/searchResultsPage.png)
+
+
+### Default Delievery Address Page
+![Default Delievery Address Page](project-images/defaultDelieveryAddressPage.png)
+
+
+### Recent Orders Page
+![Recent Orders Page](project-images/recentOrdersPage.png)
+
+
+### Account Details Page
+![Account Details Page](project-images/accountDetailsPage.png)
+
+
+### SignIn Page
+![SignIn Page](project-images/signInPage.png)
+
 ## Installation
 
 ### Prerequisites
